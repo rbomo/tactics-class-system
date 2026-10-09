@@ -47,4 +47,4 @@ I used the [Fire Emblem Wiki](https://fireemblemwiki.org/) as a reference for ho
 The first version was a prototype with a pygame front-end. The art assets were removed since I don't own the rights to them; the game logic is what this repo is about. A front-end with original or properly licensed art is a possible next step.
 
 ## License
-Free to use, copy, modify and share, including in your own projects, **as long as you credit me**: mention **Raphaël Bomo ([@Rafilou3321](https://github.com/Rafilou3321))** and keep the copyright notice. See [LICENSE](LICENSE) (MIT).
+Free to use, copy, modify and share, including in your own projects, **as long as you credit me**: mention **Raphaël Bomo ([@rbomo](https://github.com/rbomo))** and keep the copyright notice. See [LICENSE](LICENSE) (MIT).
